@@ -1,4 +1,4 @@
-# Demostración de diversas técnicas de optimización en CUDA
+# Demostración de multiples técnicas de optimización en CUDA
 
 ## Descripción
 
